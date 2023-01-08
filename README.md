@@ -9,8 +9,8 @@ Please note that I did ran into some programming errors, however I continued to 
 
 ## Results: 
 ####	Deliverable 1: Use Resampling Models to Predict Credit Risk.
- - I have used the Binary encoding using Pandas (multiple columns) to remove the string values and replace it with numberic values. to create the feature and taget values I used yj loan_status colunm. See file (resampling](#) 
-  ![]()
+ - I have used the Binary encoding using Pandas (multiple columns) to remove the string values and replace it with numberic values. to create the feature and taget values I used yj loan_status colunm. See file [resampling]() 
+  ![](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/Oversample.png)
 
 ####	Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk.
 
