@@ -5,7 +5,7 @@
  - The combinatorial approach of over- and undersampling using the SMOTEENN algorithm were used for Delivable #2. 
  - For Delivable #3, I compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. 
  
-Please note that I did ran into some programming errors, however I continued to work towards the enad with the code through in this module.
+Please note that I did ran into some programming errors, however I continued to work towards the end with the code I have learnt in this module.
 
 ## Results: 
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
