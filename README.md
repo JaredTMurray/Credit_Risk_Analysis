@@ -8,11 +8,13 @@
 Please note that I did ran into some programming errors, however I continued to work towards the end with the code I have learnt in this module.
 
 ## Results: 
-###	Deliverable 1: Use Resampling Models to Predict Credit Risk.
+####	Deliverable 1: Use Resampling Models to Predict Credit Risk.
+ - I have used the Binary encoding using Pandas (multiple columns) to remove the string values and replace it with numberic values. to create the feature and taget values I used yj loan_status colunm. See file (resampling](#) 
+  ![]()
 
-###	Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk.
+####	Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk.
 
-###	Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
+####	Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
 
 ##	Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
