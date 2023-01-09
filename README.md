@@ -2,8 +2,8 @@
 ##	Overview of the analysis: 
  I have used the credit card credit dataset from LendingClub, a peer-to-peer lending services company, 
  - I have used the oversampling method for the data by using the RandomOverSampler and SMOTE algorithms, as well as used the undersampling method for the data by using the ClusterCentroids algorithm. 
- - The combination approach of oversampling and undersampling using the SMOTEENN algorithm were used for Delivable #2. 
- - For Delivable #3, I compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. 
+ - The combination approach of oversampling and undersampling using the SMOTEENN algorithm were used for Deliverable #2. 
+ - For Deliverable #3, I compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. 
  
 Please note that I did ran into some programming errors, however I continued to work towards the end with the code that I have learnt in this module.
 
