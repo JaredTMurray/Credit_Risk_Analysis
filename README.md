@@ -11,13 +11,14 @@ Please note that I did ran into some programming errors, however I continued to 
 ####	Deliverable 1: Use Resampling Models to Predict Credit Risk.
  - I have used the Binary encoding with Pandas (multiple columns) to remove the string values and replace it with numeric values. It created the feature and target values that I used in the loan_status colunm. See file [credit_risk)resampling](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb). 
  - The split train and test values had a Counter of ({1: 51366, 0: 246})
- 
+ - For the combination of oversampling and undersampling 
   ![](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/Oversample.png)
 
 ####	Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk.
--  I have used teh undersampling method in the file [credit_risk)resampling](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+-  I have used the undersampling method in the file [credit_risk)resampling](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+-  For this method, I got a balanced accuracy score of 0.66 and a prediction for high risk at 0.01 and low rish at 1.00. 
 ![](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/Undersample.png)
-- Combination of Over and under sample methos was used to find confusion matrix 
+- The combination of Over and under sample methos was used to find confusion matrix, the confustion matrix produced an array for the y_prediction of 71, 30 and 7232, 9872. 
 ![](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/Over_Under.png)
 
 ####	Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
