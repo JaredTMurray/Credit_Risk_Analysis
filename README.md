@@ -18,11 +18,11 @@ Please note that I did ran into some programming errors, however I continued to 
 -  I have used the undersampling method in the file [credit_risk)resampling](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
 -  For this method, I got a balanced accuracy score of 0.66 and a prediction for high risk at 0.01 and low rish at 1.00. 
 ![](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/Undersample.png)
-- The combination of Over and under sample methos was used to find confusion matrix, the confustion matrix produced an array for the y_prediction of 71, 30 and 7232, 9872. 
+- The combination of Over and under sample methos was used to find confusion matrix, the confusion matrix produced an array for the y_prediction of 71, 30 and 7232, 9872. 
 ![](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/Over_Under.png)
 
 ####	Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
-The Ensemble classifier with balancedrandon methed was used in [credit_risk_ensemble](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
+The Ensemble classifier with balancedrandon method was used in [credit_risk_ensemble](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
 - The BalancedRandomForestClassifier had a random_state of 1 for the X and y values. The variable clf stored the X and y value.
 - The Accuracy score was stored in the variable acc_score for a value of 0.78.
 - I sorted the values of the clf_model and the X.columns.
