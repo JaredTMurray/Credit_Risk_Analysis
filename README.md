@@ -30,5 +30,5 @@ The Ensemble classifier with balancedrandon methed was used in [credit_risk_ense
 - The Imbalanced classification report for y_test and y_pred produced high_risk, low_risk and avg/total values respectively. 
 ![](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/ensemble.png)
 ##	Summary
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-
+- For the Combination(Over and Under) Sampling Precision = True Positive/(True Positive + False Positive), Sensitivity = True Positive/(True Positive + False Negative). The credit risk was low, therefore, the imbalance classification testing credit risk value would be good.
+- The sensitivity for credit_risk_resampling is lower than credit_risk_ensemble, therefore, it is important that we conduct good research on applicants. 
