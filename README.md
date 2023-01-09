@@ -21,7 +21,7 @@ Please note that I did ran into some programming errors, however I continued to 
 ####	Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
 The Ensemble classifier with balancedrandon methed was used in [credit_risk_ensemble](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
 
-![]()
+![](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/ensemble.png)
 ##	Summary
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
 
