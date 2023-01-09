@@ -13,6 +13,8 @@ Please note that I did ran into some programming errors, however I continued to 
   ![](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/Oversample.png)
 
 ####	Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk.
+-  I have used teh undersampling method in the file [credit_risk)resampling](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+![](https://github.com/JaredTMurray/Credit_Risk_Analysis/blob/main/Undersample.png)
 
 ####	Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
 
